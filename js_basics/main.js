@@ -16,11 +16,11 @@ multiline comment*/
 // console.log("tanii ajil:", job);
 // console.log("tanii angi:", angi);
 
-//bodlogo 1
+//bodlogo 2
 let ner = "Temuulen";
 console.log("tanii ner:", ner);
 
-//bodlogo 2
+//bodlogo 3
 let firstname = "Temuulen";
 let lastname = "Byambadorj";
 let country = "Mongolia";
@@ -30,7 +30,7 @@ console.log("aaviin ner:", lastname);
 console.log("tursun gazar:", country);
 console.log("email chin yu vee:", email);
 
-//bodlogo 3
+//bodlogo 4
 let friendname = "Tselmeg"; //string
 let nas = 19; //number 20, 20.3
 let gerlsenEseh = true; //boolean: true/false
@@ -38,7 +38,7 @@ console.log("naiziin ner: ", ner);
 console.log("tanii nas: ", nas);
 console.log("tanii gerleltiin baidal: ", gerlsenEseh);
 
-//bodlogo 4
+//bodlogo 5
 let x = 4;
 let y = 8;
 let add = x + y; //12
@@ -47,17 +47,27 @@ let times = x * y; //32
 let devide = y / x; //2
 
 console.log(" x y hoyoriin niilber ", add);
-console.log(" x y hoyoriin yalgavar ", add);
-console.log(" x y hoyoriin urjver ", add);
-console.log(" x y hoyoriin huvaah ", add);
-
-//bodlogo 5
-let number1 = 1,
-  number2 = 2,
-  number3 = 3;
-let p = a + b + c; //6
+console.log(" x y hoyoriin yalgavar ", minus);
+console.log(" x y hoyoriin urjver ", times);
+console.log(" x y hoyoriin huvaah ", devide);
 
 //bodlogo 6
-// let 8 * 1024 * 1024 * 1024
+let a = 1;
+let b = 2;
+let c = 3;
+let p = a + b + c;
+
+console.log("gurvaljnii perimeter(a + b + c)", p);
 
 //bodlogo 7
+let GB = 1 * 8 * 1024 * 1024 * 1024 * 15;
+
+console.log("15gb to bit", GB);
+
+//bodlogo 8
+let C = 20;
+let F = C * 1.8 + 32;
+
+console.log("cersius to farenheit", F);
+
+//bodlogo 9
