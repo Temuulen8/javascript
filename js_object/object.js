@@ -67,3 +67,15 @@ let students = [
 ];
 studentsage(students);
 // console.log(students[k].age);
+
+//1 
+
+let a = 4
+let b = 8
+let max = a > b
+function greater(a, b) {
+  
+  return max
+  console.log("ih toon", max)
+}
+console.log("ih toon", max)
